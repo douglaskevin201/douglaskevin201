@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--# Olá, eu sou o Kevin Douglas! 👋
