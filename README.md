@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="100%">
+  <img src="https://github.com/douglaskevin201/douglaskevin201/blob/main/Gemini_Generated_Image_sumwj2sumwj2sumw.png?raw=true" width="100%">
 </p>
 
 ## Hi there 👋
